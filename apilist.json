@@ -138,7 +138,7 @@
       "key": "zdzy",
       "name": "最大资源",
       "type": 1,
-      "api": "http://zuidazy.net/api.php/provide/vod/",
+      "api": "http://zuidazy.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
